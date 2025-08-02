@@ -19,35 +19,14 @@ The script analyzes a given Nginx access log and outputs:
 - Tools: `awk`, `sort`, `uniq`, `head`
 - An Nginx log file (included: `sample-nginx-log.log`)
 ---
+
+## https://roadmap.sh/projects/nginx-log-analyser
+
 ##  Usage
-
-1. **Clone the repository**
-
+1. **Clone the repository** 
 ```bash
-git clone https://github.com/your-username/nginx-log-analyzer.git
+git clone https://github.com/Ragavice/nginx-log-analyzer.git
 cd nginx-log-analyzer
 
-## output https://roadmap.sh/projects/nginx-log-analyser
 
-Top 5 IP addresses with the most requests:
-      5 }
-      3 margin:
-      3 <meta
-      3
-      2 width:
 
-Top 5 most requested paths:
-     43
-      1 or
-      1 illustrative
-      1 "Open
-
-Top 5 response status codes:
-     43
-      1 in
-      1 for
-      1 "Helvetica
-
-Top 5 user agents:
-     45
-      1 Helvetica Neue
